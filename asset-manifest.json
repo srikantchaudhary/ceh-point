@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ceh-point/static/css/main.d81e313c.css",
+    "main.js": "/ceh-point/static/js/main.fa092590.js",
+    "index.html": "/ceh-point/index.html",
+    "main.d81e313c.css.map": "/ceh-point/static/css/main.d81e313c.css.map",
+    "main.fa092590.js.map": "/ceh-point/static/js/main.fa092590.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d81e313c.css",
+    "static/js/main.fa092590.js"
+  ]
+}
